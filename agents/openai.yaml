@@ -1,0 +1,4 @@
+interface:
+  display_name: "National Design Studio Inspired"
+  short_description: "Website UI/UX inspired by the NDS portfolio"
+  default_prompt: "Use $ndstudio to design and build my website with a fitting direction from National Design Studio's portfolio."
